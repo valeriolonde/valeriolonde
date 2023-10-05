@@ -9,12 +9,13 @@ I'm deeply passionate about causal inference, NLP, and machine learning, with a 
 
 Thank you for stopping by!
 
-# Tech Stack:
+ Tech Stack:
 
-📊 R: Proficient in data manipulation, statistical modeling, and visualization.
-🐍 Python: Skilled in data analysis, machine learning, and NLP tasks.
-🛢️ SQL: Adept at querying databases, data extraction, and manipulation.
+📊 R: Proficient in data manipulation, statistical modeling, and visualization. \\ 
+🐍 Python: Skilled in data analysis, machine learning, and NLP tasks. \\ 
+🛢️ SQL: Adept at querying databases, data extraction, and manipulation. \\ 
 📜 LaTeX: Experienced in document preparation and mathematical typesetting.
+
 Figuring out:
 <!--
 **valeriolonde/valeriolonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
