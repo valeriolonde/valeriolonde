@@ -16,6 +16,8 @@ Thank you for stopping by!
 🛢️ SQL: Adept at querying databases, data extraction, and manipulation. \
 📜 LaTeX: Experienced in document preparation and mathematical typesetting.
 
+                 
+
 
 <!--
 **valeriolonde/valeriolonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
