@@ -1,4 +1,4 @@
-### 👋 Hi there! My name is Valério
+## 👋 Hi there! My name is Valério
 
 🎓 Economics BsC from Universidade de Brasília, Brazil
 🎓 Currently, Economics master's student at the Universidade de Brasília
@@ -9,7 +9,7 @@ I'm deeply passionate about causal inference, NLP, and machine learning, with a 
 
 Thank you for stopping by!
 
- Tech Stack:
+**Tech Stack **:
 
 📊 R: Proficient in data manipulation, statistical modeling, and visualization. \\ 
 🐍 Python: Skilled in data analysis, machine learning, and NLP tasks. \\ 
