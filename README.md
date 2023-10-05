@@ -1,9 +1,9 @@
 ## 👋 Hi there! My name is Valério
 
-🎓 Economics BsC from Universidade de Brasília, Brazil  \
-🎓 Currently, Economics master's student at the Universidade de Brasília  \
-🔍 Research Assistant at FGV - EESP CLEAR  \
-📚 Private Tutor in Mathematics and Statistics  
+🎓 Economics BsC from Universidade de Brasília, Brazil  (June 2018 – June 2022)\
+🎓 Currently, Economics master's student at the Universidade de Brasília (June 2022 – Present) \
+🔍 Research Assistant at FGV - EESP CLEAR  (July 2023 - Present)\
+📚 Private Tutor in Mathematics and Statistics (March 2023 - Present)
 
 I'm deeply passionate about causal inference, NLP, and machine learning, with a specific emphasis on data science applications. Exploring industry applications of these domains and pushing their boundaries to derive actionable insights is what drives me.
 
