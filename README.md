@@ -13,7 +13,6 @@ Thank you for stopping by!
 
 📊 R: Proficient in data manipulation, statistical modeling, and visualization. \
 🐍 Python: Skilled in data analysis, machine learning, and NLP tasks. \
-🛢️ SQL: Adept at querying databases, data extraction, and manipulation. \
 📜 LaTeX: Experienced in document preparation and mathematical typesetting.
 
                  
